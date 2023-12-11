@@ -1,4 +1,4 @@
-# pazzleGame-takaris
+# puzzleGame-takaris
 
 ## はじめに
 
