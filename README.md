@@ -13,10 +13,10 @@
 `https://apps.apple.com/jp/app/xcode/id497799835?mt=12`
 
 ②xcodeをセットアップする
-※バージョンは17としてください
+- ※バージョンは17としてください
 
 ③以下のコマンドを実行し、本レポジトリをクローンする
-`git clone git@github.com:Takahiro5286/pazzleGame-takaris.git`
+ -`git clone git@github.com:Takahiro5286/pazzleGame-takaris.git`
 
 ④xcode内で「blockSlide」に移動し、上部にある「▶️」をクリックする
 
