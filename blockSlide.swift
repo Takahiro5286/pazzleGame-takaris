@@ -509,7 +509,7 @@ struct blockSlide: View {
         
         Group {
                if condition {
-                   Text("TETRIS")
+                   Text("TAKARIS")
                        .font(.title)
                } else {
                    Text("Alternative View")
@@ -729,7 +729,6 @@ struct blockSlide: View {
                     print("leftL")
                 }
             }
-            .padding()
             
             
             
